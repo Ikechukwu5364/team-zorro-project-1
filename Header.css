@@ -1,0 +1,22 @@
+.Header{
+    width: 100%;
+    height: 60px;
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+    margin-bottom:  150px;
+    font-weight: 550;
+}
+
+.Header a, .Header div {
+    margin: 5px;
+}
+
+ul{
+    list-style-type: none;
+    display: inline-flex;
+}
+li{
+    padding: 5px;
+}
