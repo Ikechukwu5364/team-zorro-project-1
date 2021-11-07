@@ -1,0 +1,16 @@
+.search{
+    margin-top: 30px;
+    width: 500px;
+    height: 50px;
+    border: 1px solid darkgray;
+    border-radius: 19px;
+}
+
+.search:hover{
+    box-shadow: 1px 1px 8px black;
+}
+botton img{
+   margin-top: 30px;
+   border: none;
+   background-color: white;
+}
